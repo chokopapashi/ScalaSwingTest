@@ -1,3 +1,20 @@
+*~
+*.swp
+*.swo
+*.swn
+
+*.lnk
+logback.xml
+resources/
+
+src/main/scala/BoxPanelSample.scala
+src/main/scala/ButtonEventSample.scala
+src/main/scala/ComponentSample.scala
+src/main/scala/MainFrameSample.scala
+src/main/scala/PanelSample.scala
+
+#original -->
+
 *.class
 *.log
 
